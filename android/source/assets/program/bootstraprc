@@ -1,0 +1,4 @@
+            [Bootstrap]
+            InstallMode=<installmode>
+            ProductKey=LibreOffice 5.3
+UserInstallation=file://$APP_DATA_DIR
