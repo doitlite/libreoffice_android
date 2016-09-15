@@ -1,0 +1,109 @@
+   [subant] No sub-builds to iterate on
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/CreateRemoteShareOperation.java:69: warning: unmappable character for encoding UTF-8
+    [javac] 	 * @param shareType			�0� = user, �1� = group, �3� = Public link. Mandatory argument
+    [javac] 	                   			^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/CreateRemoteShareOperation.java:69: warning: unmappable character for encoding UTF-8
+    [javac] 	 * @param shareType			�0� = user, �1� = group, �3� = Public link. Mandatory argument
+    [javac] 	                   			  ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/CreateRemoteShareOperation.java:69: warning: unmappable character for encoding UTF-8
+    [javac] 	 * @param shareType			�0� = user, �1� = group, �3� = Public link. Mandatory argument
+    [javac] 	                   			            ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/CreateRemoteShareOperation.java:69: warning: unmappable character for encoding UTF-8
+    [javac] 	 * @param shareType			�0� = user, �1� = group, �3� = Public link. Mandatory argument
+    [javac] 	                   			              ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/CreateRemoteShareOperation.java:69: warning: unmappable character for encoding UTF-8
+    [javac] 	 * @param shareType			�0� = user, �1� = group, �3� = Public link. Mandatory argument
+    [javac] 	                   			                         ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/CreateRemoteShareOperation.java:69: warning: unmappable character for encoding UTF-8
+    [javac] 	 * @param shareType			�0� = user, �1� = group, �3� = Public link. Mandatory argument
+    [javac] 	                   			                           ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/CreateRemoteShareOperation.java:71: warning: unmappable character for encoding UTF-8
+    [javac] 	 * @param publicUpload		If �false� (default) public cannot upload to a public shared folder. 
+    [javac] 	                      		   ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/CreateRemoteShareOperation.java:71: warning: unmappable character for encoding UTF-8
+    [javac] 	 * @param publicUpload		If �false� (default) public cannot upload to a public shared folder. 
+    [javac] 	                      		         ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/CreateRemoteShareOperation.java:72: warning: unmappable character for encoding UTF-8
+    [javac] 	 * 							If �true� public can upload to a shared folder. Only available for public link shares
+    [javac] 	   							   ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/CreateRemoteShareOperation.java:72: warning: unmappable character for encoding UTF-8
+    [javac] 	 * 							If �true� public can upload to a shared folder. Only available for public link shares
+    [javac] 	   							        ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/CreateRemoteShareOperation.java:74: warning: unmappable character for encoding UTF-8
+    [javac] 	 * @param permissions		1 - Read only � Default for �public� shares
+    [javac] 	                     		              ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/CreateRemoteShareOperation.java:74: warning: unmappable character for encoding UTF-8
+    [javac] 	 * @param permissions		1 - Read only � Default for �public� shares
+    [javac] 	                     		                            ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/CreateRemoteShareOperation.java:74: warning: unmappable character for encoding UTF-8
+    [javac] 	 * @param permissions		1 - Read only � Default for �public� shares
+    [javac] 	                     		                                   ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/CreateRemoteShareOperation.java:79: warning: unmappable character for encoding UTF-8
+    [javac] 	 * 							31- All above � Default for �private� shares
+    [javac] 	   							              ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/CreateRemoteShareOperation.java:79: warning: unmappable character for encoding UTF-8
+    [javac] 	 * 							31- All above � Default for �private� shares
+    [javac] 	   							                            ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/CreateRemoteShareOperation.java:79: warning: unmappable character for encoding UTF-8
+    [javac] 	 * 							31- All above � Default for �private� shares
+    [javac] 	   							                                    ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/CreateRemoteShareOperation.java:82: warning: unmappable character for encoding UTF-8
+    [javac] 	 * 							For instance, for �Re-Share�, �delete�, �read�, �update�, add 16+8+2+1 = 27.
+    [javac] 	   							                  ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/CreateRemoteShareOperation.java:82: warning: unmappable character for encoding UTF-8
+    [javac] 	 * 							For instance, for �Re-Share�, �delete�, �read�, �update�, add 16+8+2+1 = 27.
+    [javac] 	   							                           ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/CreateRemoteShareOperation.java:82: warning: unmappable character for encoding UTF-8
+    [javac] 	 * 							For instance, for �Re-Share�, �delete�, �read�, �update�, add 16+8+2+1 = 27.
+    [javac] 	   							                              ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/CreateRemoteShareOperation.java:82: warning: unmappable character for encoding UTF-8
+    [javac] 	 * 							For instance, for �Re-Share�, �delete�, �read�, �update�, add 16+8+2+1 = 27.
+    [javac] 	   							                                     ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/CreateRemoteShareOperation.java:82: warning: unmappable character for encoding UTF-8
+    [javac] 	 * 							For instance, for �Re-Share�, �delete�, �read�, �update�, add 16+8+2+1 = 27.
+    [javac] 	   							                                        ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/CreateRemoteShareOperation.java:82: warning: unmappable character for encoding UTF-8
+    [javac] 	 * 							For instance, for �Re-Share�, �delete�, �read�, �update�, add 16+8+2+1 = 27.
+    [javac] 	   							                                             ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/CreateRemoteShareOperation.java:82: warning: unmappable character for encoding UTF-8
+    [javac] 	 * 							For instance, for �Re-Share�, �delete�, �read�, �update�, add 16+8+2+1 = 27.
+    [javac] 	   							                                                ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/CreateRemoteShareOperation.java:82: warning: unmappable character for encoding UTF-8
+    [javac] 	 * 							For instance, for �Re-Share�, �delete�, �read�, �update�, add 16+8+2+1 = 27.
+    [javac] 	   							                                                       ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/GetRemoteSharesForFileOperation.java:68: warning: unmappable character for encoding UTF-8
+    [javac] 	 * @param reshares			If set to �false� (default), only shares from the current user are returned
+    [javac] 	                  			          ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/GetRemoteSharesForFileOperation.java:68: warning: unmappable character for encoding UTF-8
+    [javac] 	 * @param reshares			If set to �false� (default), only shares from the current user are returned
+    [javac] 	                  			                ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/GetRemoteSharesForFileOperation.java:69: warning: unmappable character for encoding UTF-8
+    [javac] 	 * 							If set to �true�, all shares from the given file are returned
+    [javac] 	   							          ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/GetRemoteSharesForFileOperation.java:69: warning: unmappable character for encoding UTF-8
+    [javac] 	 * 							If set to �true�, all shares from the given file are returned
+    [javac] 	   							               ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/GetRemoteSharesForFileOperation.java:70: warning: unmappable character for encoding UTF-8
+    [javac] 	 * @param subfiles			If set to �false� (default), lists only the folder being shared
+    [javac] 	                  			          ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/GetRemoteSharesForFileOperation.java:70: warning: unmappable character for encoding UTF-8
+    [javac] 	 * @param subfiles			If set to �false� (default), lists only the folder being shared
+    [javac] 	                  			                ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/GetRemoteSharesForFileOperation.java:71: warning: unmappable character for encoding UTF-8
+    [javac] 	 * 							If set to �true�, all shared files within the folder are returned.
+    [javac] 	   							          ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/com/owncloud/android/lib/resources/shares/GetRemoteSharesForFileOperation.java:71: warning: unmappable character for encoding UTF-8
+    [javac] 	 * 							If set to �true�, all shared files within the folder are returned.
+    [javac] 	   							               ^
+    [javac] /home/byod/git/libo/workdir/UnpackedTarball/owncloud_android_lib/tmp-src/org/apache/commons/httpclient/HttpContentTooLargeException.java:6: warning: unmappable character for encoding UTF-8
+    [javac]  * @author Ortwin Gl�ck
+    [javac]                     ^
+    [javac] Note: Some input files use or override a deprecated API.
+    [javac] Note: Recompile with -Xlint:deprecation for details.
+    [javac] Note: Some input files use unchecked or unsafe operations.
+    [javac] Note: Recompile with -Xlint:unchecked for details.
+    [javac] 33 warnings
+     [echo] Copying jar file for binary distribution
+
+BUILD SUCCESSFUL
+Total time: 16 seconds

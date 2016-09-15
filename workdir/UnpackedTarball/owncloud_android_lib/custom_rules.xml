@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="custom_rules">
+    <!-- Gather the sources from different directories to a temporary dir -->
+    <target name="-pre-build" >
+        <copy todir="tmp-src" >
+            <fileset dir="src" includes="**" />
+            <fileset dir="libs/commons-httpclient-3.1/src/java" includes="**" />
+            <fileset dir="libs/commons-codec-1.9/src/main/java" includes="**" />
+            <fileset dir="libs/slf4j-1.7.12/src/java" includes="**" />
+            <fileset dir="libs/jackrabbit-webdav-2.7.2/src/main/java" includes="**" />
+            <fileset dir="libs/tomcat-7.0.40/java" includes="**" />
+        </copy>
+    </target>
+
+    <!-- Remove temporary directory -->
+    <target name="-post-build" >
+        <delete dir="tmp-src" />
+    </target>
+
+    <target name="-post-compile">
+        <echo>Copying jar file for binary distribution</echo>
+        <copy file="${out.absolute.dir}/classes.jar" toFile="${out.absolute.dir}/${ant.project.name}.jar" />
+    </target>
+</project>
